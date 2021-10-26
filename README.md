@@ -1,6 +1,5 @@
 # IPL DashBoard Demo Backend
 ## Overview
-This is a backend for the IPL Dashboard Demo on the Java Brains youtube channel.
 The backend is developed as a REST API such that it can be integrated easily with 
 any front end application. 
 ## Database Decisions
